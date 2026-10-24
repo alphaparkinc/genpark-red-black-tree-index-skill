@@ -1,0 +1,10 @@
+startCommand:
+  type: stdio
+  config:
+    command: python
+    args:
+      - mcp_server.py
+name: genpark-red-black-tree-index-skill
+description: Self-balancing Red-Black binary search tree engine for ordered indexing, range queries, and log-time state updates in memory
+version: 1.0.1
+homepage: https://www.genpark.ai
