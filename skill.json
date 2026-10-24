@@ -1,0 +1,9 @@
+{
+  "name": "genpark-red-black-tree-index-skill",
+  "version": "1.0.1",
+  "description": "Self-balancing Red-Black binary search tree engine for ordered indexing, range queries, and log-time state updates in memory",
+  "author": "AlphaPark Inc",
+  "license": "Apache-2.0",
+  "main": "client.py",
+  "runtime": "python3"
+}
